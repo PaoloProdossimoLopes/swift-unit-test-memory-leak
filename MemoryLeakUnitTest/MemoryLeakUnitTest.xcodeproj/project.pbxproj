@@ -12,8 +12,8 @@
 		B135F95E27BEA9C800521EAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135F95D27BEA9C800521EAD /* ViewController.swift */; };
 		B135F96327BEA9CA00521EAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B135F96227BEA9CA00521EAD /* Assets.xcassets */; };
 		B135F96627BEA9CB00521EAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B135F96427BEA9CB00521EAD /* LaunchScreen.storyboard */; };
-		B135F97127BEA9CB00521EAD /* MemoryLeakUnitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135F97027BEA9CB00521EAD /* MemoryLeakUnitTestTests.swift */; };
 		B135F98B27BEAC1F00521EAD /* FirstArticleMemoryLeakTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135F98A27BEAC1F00521EAD /* FirstArticleMemoryLeakTest.swift */; };
+		B135F9A927BECA4B00521EAD /* SecondArticleMemoryLeakTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B135F9A827BECA4B00521EAD /* SecondArticleMemoryLeakTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +35,8 @@
 		B135F96527BEA9CB00521EAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B135F96727BEA9CB00521EAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B135F96C27BEA9CB00521EAD /* MemoryLeakUnitTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoryLeakUnitTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B135F97027BEA9CB00521EAD /* MemoryLeakUnitTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryLeakUnitTestTests.swift; sourceTree = "<group>"; };
 		B135F98A27BEAC1F00521EAD /* FirstArticleMemoryLeakTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstArticleMemoryLeakTest.swift; sourceTree = "<group>"; };
+		B135F9A827BECA4B00521EAD /* SecondArticleMemoryLeakTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondArticleMemoryLeakTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,8 +88,8 @@
 		B135F96F27BEA9CB00521EAD /* MemoryLeakUnitTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				B135F97027BEA9CB00521EAD /* MemoryLeakUnitTestTests.swift */,
 				B135F98A27BEAC1F00521EAD /* FirstArticleMemoryLeakTest.swift */,
+				B135F9A827BECA4B00521EAD /* SecondArticleMemoryLeakTest.swift */,
 			);
 			path = MemoryLeakUnitTestTests;
 			sourceTree = "<group>";
@@ -215,8 +215,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B135F9A927BECA4B00521EAD /* SecondArticleMemoryLeakTest.swift in Sources */,
 				B135F98B27BEAC1F00521EAD /* FirstArticleMemoryLeakTest.swift in Sources */,
-				B135F97127BEA9CB00521EAD /* MemoryLeakUnitTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
