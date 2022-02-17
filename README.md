@@ -60,7 +60,7 @@ So that you can run the project follow this steps:
 2. Then click on the **COMMAND + R** keys or press the ▶︎ (icon at the top of the IDE).
 
 ### RUN TEST <a name="runtest">
-2. Then click on the **COMMAND + U** to run all test.
+1. Then click on the **COMMAND + U** to run all test.
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
