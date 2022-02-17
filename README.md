@@ -87,7 +87,7 @@ Don't forget to give the project a star! Thanks again!
 ## 📃  LICENSE <a name="license"></a>
 The MIT license was used in this project.
 
-![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)
+![GitHub](https://img.shields.io/github/license/PaoloProdossimoLopes/swift-unit-test-memory-leak?color=black&style=flat-square)
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
 
@@ -102,12 +102,3 @@ The MIT license was used in this project.
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pprodossimo)
 
 <p align="right">(<a href="#top">BACK TO TOP</a>)</p>
-
-
-
-<!--  NOTES
-find for badges in 
-https://shields.io/category/build
-or 
-https://github.com/PaoloProdossimoLopes/Badges4-README.md-Profile
--->
